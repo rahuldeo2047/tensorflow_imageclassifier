@@ -23,6 +23,19 @@ Or if using scripts
   - sh train.sh classifier1/ ../tensorflow
   - sh guess.sh < " image file " >
 
+</hr>
+Folder and files
+  - tf_files/
+  - tf_files/classifier/ 
+  - tf_files/classifier/data/
+  - tf_files/classifier/data/class1/
+  - tf_files/classifier/data/class1/<"IMAGES">
+  - tf_files/classifier/data/class2/
+  - tf_files/classifier/data/class2/<"IMAGES">
+  - train.sh
+  - guess.sh
+</hr>
+
 <h3>Image reference<h3> 
 
 ![retrained](https://github.com/rahuldeo2047/tensorflow_imageclassifier/blob/master/Screenshot%20from%202016-09-13%2008-04-12.png)
