@@ -26,12 +26,12 @@ Or if using scripts
 </hr>
 Folder and files
   - tf_files/
-  - tf_files/classifier/ 
-  - tf_files/classifier/data/
-  - tf_files/classifier/data/class1/
-  - tf_files/classifier/data/class1/<"IMAGES">
-  - tf_files/classifier/data/class2/
-  - tf_files/classifier/data/class2/<"IMAGES">
+  - tf_files/classifier1/ 
+  - tf_files/classifier1/data/
+  - tf_files/classifier1/data/class1/
+  - tf_files/classifier1/data/class1/<"IMAGES">
+  - tf_files/classifier1/data/class2/
+  - tf_files/classifier1/data/class2/<"IMAGES">
   - train.sh
   - guess.sh
 </hr>
