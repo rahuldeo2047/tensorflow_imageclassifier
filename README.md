@@ -6,7 +6,7 @@ Go through: https://www.youtube.com/watch?v=QfNvhPx5Px8
 link for output_graph.pb gdrive: https://drive.google.com/open?id=0B8bmagS876BFb1JGNjh2d0VTcHc
 
 <p>
-<h3>Get it up<h3>
+Get it up
 </p>
   - Ubuntu 16.04 LTS
   - installation and working procedure : https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/
