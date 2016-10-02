@@ -21,7 +21,7 @@ Or if using scripts
   - docker run -it -v $HOME/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel
   - cd tf_files/
   - sh train.sh classifier1/ ../tensorflow
-  - sh guess.sh < " image file " >
+  - sh guess.sh < " image file " > classifier1/
 
 </hr>
 Folder and files
