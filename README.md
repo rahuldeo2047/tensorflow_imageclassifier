@@ -22,7 +22,7 @@ Or if using scripts
   - cd tf_files/
   - sh train.sh classifier1/ ../tensorflow
   - sh guess.sh < " image file " > classifier1/
-  - sh bash batch_guess.sh guess_img/DCIM/  /tf_files/Electricity_Bill_Classifier /tf_files/
+  - sh bash batch_guess.sh < " path for all images " > /tf_files/classifier1 /tf_files/
 
 </hr>
 Folder and files
@@ -35,6 +35,7 @@ Folder and files
   - tf_files/classifier1/data/class2/<"IMAGES">
   - train.sh
   - guess.sh
+  - batch_guess.sh
 </hr>
 
 <h3>Image reference<h3> 
